@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / editor
+.vscode/
+.idea/
+.cursor/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Duplicate data files in project root (canonical copy is in data/)
+/WA_Fn-UseC_-Telco-Customer-Churn.csv
+/WA_Fn-UseC_-Telco-Customer-Churn.xlsx
